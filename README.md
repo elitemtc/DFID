@@ -1,6 +1,8 @@
 # DFID: David Filament RFID 
 (Draft under development)
 
+<img src="dfid.png" alt="isolated" width="128"/>
+
 The DFID is a proposal to store and transfer the filament configuration
 data with a RFID chip. It is an open implementation and supported by the
 DMC(David Multi-material Core). The idea of this ID scheme is for the
